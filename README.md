@@ -44,3 +44,28 @@ $200K cash prize for "call for code"
 
 Drones and AI to identify SOS messages on pavement, buildings, etc following a natural disaster.
 
+## Arun Gupta, Why Amazon Cares about Open Source
+
+How Amazon invests to make sure that communities stay healthy. Will discuss how.
+Amazon contributes to a lot of projects.
+Contribute to projects that matter to their customers.
+They contribute to the big foundations.
+Looking at other conferences to be present and talk to customers. 
+opensource.amazon.com
+Have an open source blog, > 20% of content is user contributed.
+
+## Alison McCauley, Unblocked Future
+
+Open Source is breaking outside of software: surf boards, tractors, etc..
+
+How can we further decentralize contribution?
+
+What motivates and incentivizes contribution?
+
+What if we had universal incentives.
+
+Blockchain. Use as plumbing for designing incentives. Bitcoin, dual purpose, a currency and a game theory application to shape behavior.
+
+https://www.unblockedfuture.com/
+
+Discussed projects incentivizing public good projects using blockchain tokens.
